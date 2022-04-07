@@ -1,0 +1,16 @@
+.table {
+    th {
+        background: #c7c4ff !important;
+    }
+    th.list-actions{
+        padding-right: 50px;
+    }
+    td {
+        line-height: 40px;
+        font-size: 17px;
+    }
+    .list-actions {
+        display: flex;
+        justify-content: flex-end;
+    }
+}

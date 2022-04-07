@@ -1,0 +1,29 @@
+.alert-message {
+  margin-top: 4px;
+  display: inline-block;
+  padding: 2px;
+  color: red;
+}
+.create-job-button {
+  margin-top: 23px;
+
+  .btn {
+    display: flex;
+    align-items: center;
+    .fa-plus {
+      margin-right: 4px;
+    }
+  }
+}
+.job-list {
+  background: #ebebff;
+  padding: 10px;
+  margin: 0;
+  border-radius: 4px;
+}
+
+.job-counter {
+  display: flex;
+  justify-content: flex-end;
+}
+
